@@ -560,9 +560,8 @@ function isAprilFools() {
   var currentMonth = d.getMonth() + 1;
   var currentDay = d.getDate();
   var currentHour = d.getHours();
-  var currentMinutes = d.getMinutes();
 
-  if ( currentMonth == 4 && currentDay == 1  && currentHour >= 9 && currentMinutes >= 00 ) {
+  if ( currentMonth == 4 && currentDay == 1  && currentHour >= 9 ) {
     initAprilFoolsJoke();
   } else {
     return false;

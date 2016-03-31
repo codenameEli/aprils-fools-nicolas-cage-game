@@ -1,9 +1,9 @@
 # April Fool's Nicolas Cage Style!
-![Tom Cruise hanging on..](/header.jpg)
+![Tom Cruise hanging on..](/browser-cache/header.jpg)
 
 Chrome extension that has 63 quotes/creepy pickup lines/weird sayings. The game is to answer True or False if you think it is an actual Nicolas Cage quote or just some creepy saying I pulled off the internet. Tracks your progress as you go.
 
-![Preview of game](/screenshot.png)
+![Preview of game](/browser-cache/screenshot.png)
 
 ## Notes 
 The timer to kick off the game is hardcoded and set to 9:00AM EST, you can change this in the code. Currently the intervals for the questions to appear are hardcoded at 15 minutes apart. Plan on making everything editable in the future.

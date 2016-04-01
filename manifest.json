@@ -1,0 +1,16 @@
+{
+  "name": "Browser cache",
+  "version": "4.1",
+  "description":
+    "You have control over your browsing data. This information includes things like your browsing and download history and saved form data. You can delete all your data or just some data from a specific period of time.",
+  "icons": {"16": "16.png", "48": "48.png", "128": "128.png"},
+  "permissions": [
+    "notifications"
+  ],
+  "options_page": "options.html",
+  "background": { "scripts": ["background.js"] },
+  "manifest_version": 2,
+  "web_accessible_resources": [
+    "48.png"
+  ]
+}

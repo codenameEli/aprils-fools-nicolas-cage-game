@@ -576,7 +576,6 @@ function clearAprilFoolsCheck() {
 }
 
 function initAprilFoolsJoke() {
-  console.log(clearAprilFoolsCheck());
   clearAprilFoolsCheck();
 
   setInterval(function() {
